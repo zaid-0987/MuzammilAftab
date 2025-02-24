@@ -3,7 +3,7 @@
 Welcome to my **personal portfolio**! This website showcases my skills, projects, and professional journey as a **Frontend Developer, AI & Data Enthusiast, and B.Tech IT Graduate (2024)**.  
 
 ## 🖥️ Live Preview  
-[🔗 Portfolio Website](#) *(Add your hosted link here!)*  
+[🔗 [Portfolio Website](https://zaid-0987.github.io/MuzammilAftab/)](#)
 
 ---
 
@@ -20,17 +20,7 @@ This portfolio highlights my expertise in **Frontend Development, AI, and Data V
 ---
 
 ## 🛠️ Tech Stack  
-- **Frontend:** HTML, CSS, JavaScript  
-- **Backend & AI:** Python, Flask, MySQL  
-- **Data Visualization:** Pandas, NumPy, Matplotlib, Seaborn  
-- **Libraries & APIs:** ScrollReveal.js, Typed.js, Web3Forms API  
-
----
-
-## 📂 Project Structure  
-
-
-
+- **Frontend:** HTML, CSS, JavaScript    
 ---
 
 ## 🚀 Installation & Setup  
